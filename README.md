@@ -200,17 +200,18 @@ for w, true, pred in zip(X_test[i], y_true, p[0]):
 ```
 ## OUTPUT
 
-![image](https://github.com/user-attachments/assets/8fc5c1bf-3fb1-4208-882d-933f016d6edc)
+![image](https://github.com/user-attachments/assets/2dc3f6f3-d577-471c-b771-4641d68b3fa4)
 
-![image](https://github.com/user-attachments/assets/19edbac8-2584-4698-a50b-3e61f3dd681b)
 
-![image](https://github.com/user-attachments/assets/9bf0029e-ab3b-4bc0-8a46-c109d4f01a64)
+![image](https://github.com/user-attachments/assets/58161c26-f412-4d56-9e08-4bc67d0ada00)
 
-![image](https://github.com/user-attachments/assets/f25a608e-9b9c-4975-9100-507c6095376a)
 
-![image](https://github.com/user-attachments/assets/8e09023c-b70b-42ab-add0-b1209806b860)
+![image](https://github.com/user-attachments/assets/f4924475-5240-4e05-9246-c237a198c58f)
+![image](https://github.com/user-attachments/assets/1f3f928a-da18-4387-bbbb-ff61f7ed0416)
 
-![image](https://github.com/user-attachments/assets/e79fa334-2f97-4282-8a05-c0d8b8762fa0)
+![image](https://github.com/user-attachments/assets/98178678-db8e-413c-b0ec-f8b70b6ee303)
+
+![image](https://github.com/user-attachments/assets/8d018658-1f14-4aae-8541-ed78a78bce01)
 
 ## RESULT
 Thus, an LSTM-based model (bi-directional) for recognizing the named entities in the text is developed Successfully.
